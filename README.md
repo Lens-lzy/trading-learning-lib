@@ -1,11 +1,11 @@
 # trading-learning-lib
 
-Introduction (介绍)
+INTRODUCTION (介绍)
 -----
-This is a learning library repository for trading and investing, inspired by the Discord Kong Group and used in Discord bots Quote
+This is a learning library repository for trading and investing, inspired by the Discord Kong Group and used in Discord bots Quote  
+这是一个用于交易和投资的学习库，其灵感来自 Discord Kong Group，并将在 Discord 机器人中使用。
 
 
-Numbering starts at **101**.
 
 
 LANGUAGE（语言）
@@ -16,6 +16,7 @@ LANGUAGE（语言）
 
 书库名单及编号
 ------
+Numbering starts at **101**.
 |书名|序号|
 |:----|:----:|
 |《大作手回忆录》	|103|

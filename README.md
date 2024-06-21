@@ -11,7 +11,7 @@ This is a learning library repository for trading and investing, inspired by the
 LANGUAGE（语言）
 -----
 **CN** - 简体中文   
-**TW** - 繁體中文  
+**TC** - 繁體中文  
 **EN** - ENGLISHS
 
 书库名单及编号

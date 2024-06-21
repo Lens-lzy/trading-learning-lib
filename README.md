@@ -87,7 +87,7 @@ Numbering starts at **101**.
 《聪明的投资者》	|111|
 《彼得林奇投资经典全集》	|112|
 《Never split the difference 》	|
-《Pitch anything》	|
+《Pitch anything》	|模糊/未定义|
 《Trading in the zone》 	|105|
 
 

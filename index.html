@@ -1,27 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Alek's Trading Book Library</title>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const books = [
-                { name: "Book 1", file: "lib/book1.pdf" },
-                { name: "Book 2", file: "lib/book2.pdf" },
-                // Add more books here
-            ];
-
-            const ul = document.querySelector("ul");
-            books.forEach(book => {
-                const li = document.createElement("li");
-                const a = document.createElement("a");
-                a.textContent = book.name;
-                a.href = book.file;
-                a.setAttribute("download", book.name);
-                li.appendChild(a);
-                ul.appendChild(li);
-            });
-        });
-    </script>
+    <title>Trading Learning Library</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,8 +29,29 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Book Download Site</h1>
+    <h1>Trading Learning Library</h1>
     <p>Here you can download various books:</p>
-    <ul></ul>
+    <ul id="book-list"></ul>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const books = [
+                { name: "Book 1", file: "lib/book1.pdf" },
+                { name: "Book 2", file: "lib/book2.pdf" },
+                // Add more books here based on your files in the /lib directory
+            ];
+
+            const ul = document.getElementById("book-list");
+            books.forEach(book => {
+                const li = document.createElement("li");
+                const a = document.createElement("a");
+                a.textContent = book.name;
+                a.href = book.file;
+                a.setAttribute("download", book.name);
+                li.appendChild(a);
+                ul.appendChild(li);
+            });
+        });
+    </script>
 </body>
 </html>

@@ -16,7 +16,10 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16'  # 使用 node 16
+        using: 'node20'
+        pre: 'setup.js'
+        main: 'index.js'
+        post: 'cleanup.js'
 
     - name: Print working directory
       run: pwd
@@ -40,5 +43,7 @@ jobs:
         git add index.html
         git commit -m 'Update index.html with book list'
         git push
+
+  
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

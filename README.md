@@ -78,6 +78,7 @@ Numbering starts at **101**.
 ### 大师经典之作系列
 |书名|序号|
 |:----|:----:|
+|《陈志武金融通识课》陈志武   CN |157|
 |《专业投机原理》维克托·斯波朗迪(Victor Sperandeo)   CN|133|
 |《股票大作手操盘术》杰西·利弗莫尔(Jesse Livemore)	  CN|110|
 |《漫步华尔街(原书第11版)》伯顿 G.马尔基尔(Burton G.Malkiel)  CN|134|

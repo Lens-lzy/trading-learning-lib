@@ -78,6 +78,7 @@ Numbering starts at **101**.
 |《量价是金》江流  CN |156|
 |《量价时空：波段操作精解》 凌波    CN  |158|
 |《威科夫量价分析图解》 戴维·H·魏斯  CN  |159|
+|《吴国平操盘手记》吴国平  CN|162|
 
 
 ### 大师经典之作系列
@@ -102,6 +103,9 @@ Numbering starts at **101**.
 |《Never split the difference 》	|模糊/未定义|
 |《Pitch anything》	|模糊/未定义|
 |《Trading in the zone》 	EN|105|
+|《股票魔法师I：纵横天下股市的奥秘》 Mark·Minervini  CN|163|
+|《股票魔法师II：像冠军一样思考和交易》 Mark·Minervini  CN|164|
+|《股票魔法师III：趋势交易圆桌访谈》 Mark·Minervini  CN|165|
 
 
 

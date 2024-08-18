@@ -106,6 +106,7 @@ Numbering starts at **101**.
 |《股票魔法师I：纵横天下股市的奥秘》 Mark·Minervini  CN|163|
 |《股票魔法师II：像冠军一样思考和交易》 Mark·Minervini  CN|164|
 |《股票魔法师III：趋势交易圆桌访谈》 Mark·Minervini  CN|165|
+|《营救华尔街：一群投机天才的崛起与陨落》Roger·Lowenstein  CN|166|
 
 
 

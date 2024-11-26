@@ -90,7 +90,8 @@ Numbering starts at **101**.
 |《专业投机原理》维克托·斯波朗迪(Victor Sperandeo)   CN|133|
 |《股票大作手操盘术》杰西·利弗莫尔(Jesse Livemore)	  CN|110|
 |《漫步华尔街(原书第11版)》伯顿 G.马尔基尔(Burton G.Malkiel)  CN|134|
-|《以交易为生》亚历山大·埃尔德(Alexander Elder)	  CN|135|
+|《以交易为生I》亚历山大·埃尔德(Alexander Elder)	  CN|135|
+|《以交易为生II》亚历山大·埃尔德(Alexander Elder)	  CN|173|
 |《穷查理宝典》Charles·Thomas·Munger  CN|128|
 |《巴菲特致股东的信》沃伦·E·巴菲特  CN|129|
 |《巴菲特与索罗斯的投资习惯》马克•泰尔	  CN|136|
